@@ -11,7 +11,7 @@
     "icalendar",
     "rfc"
   ],
-  "author": "Jakub Roztocil, Lars Schöning, and David Golightly",
+  "author": "Jakub Roztocil, Lars Schöning, and David Golightly. Fork by Josh Gann.",
   "main": "dist/es5/rrule.js",
   "module": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",

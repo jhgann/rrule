@@ -1,7 +1,7 @@
 {
-  "name": "rrule",
+  "name": "@jhgann/rrule-fork",
   "version": "2.8.0",
-  "description": "JavaScript library for working with recurrence rules for calendar dates.",
+  "description": "JavaScript library for working with recurrence rules for calendar dates. This fork addresses some toString issues.",
   "homepage": "http://jakubroztocil.github.io/rrule/",
   "license": "BSD-3-Clause",
   "keywords": [
@@ -17,7 +17,7 @@
   "types": "dist/esm/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jakubroztocil/rrule.git"
+    "url": "git://github.com/jhgann/rrule.git"
   },
   "scripts": {
     "prebuild": "yarn clean",
